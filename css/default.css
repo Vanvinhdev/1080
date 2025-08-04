@@ -10224,20 +10224,20 @@ footer h5 {
   margin: 1rem;
 }
 .icon-box.box-primary {
-  color: #1de9b6;
-  background-color: rgba(29, 233, 182, 0.1);
+  color: #008060;
+  background-color: rgba(29, 233, 182, 0.4);
 }
 .icon-box.box-secondary {
   color: #ffffff;
   background-color: rgba(17 17 17, 0.1);
 }
 .icon-box.box-success {
-  color: #00e676;
-  background-color: rgba(0, 230, 118, 0.1);
+  color: #00ba5f;
+  background-color: rgba(0, 230, 118, 0.4);
 }
 .icon-box.box-info {
-  color: #00e5ff;
-  background-color: rgba(0, 229, 255, 0.1);
+  color: #00a9bc;
+  background-color: rgba(0, 229, 255, 0.4);
 }
 .icon-box.box-warning {
   color: #ffea00;
